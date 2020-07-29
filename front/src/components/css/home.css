@@ -1,0 +1,55 @@
+.fondoHome{
+    background-color: black;
+}
+
+.letraBlanca{
+    color: white;
+    border-left: 5px solid #F5C518;
+    padding-left: 5px;
+    font-weight: bold;
+}
+
+.letraBlancaChica{
+    color: white;
+    padding-bottom: 20px;
+}
+
+
+.letraDorada{
+    padding-top: 20px;
+    color: #F5C518;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.card{
+    background-color: #1A1A1A !important;
+    border: 1px solid #1A1A1A;
+    height: 500px;
+}
+
+.card img{
+    height: 300px;
+}
+
+.card-body button{
+    width: 90%;
+    background-color: #2B2B2B;
+    border: #2B2B2B;
+    color: #5799EF;
+}
+
+.card-body button:hover{
+    background-color: #404040;
+    border: #404040;
+    color: #5799EF;
+}
+
+.card-body{
+    background-color: #1A1A1A;
+    color: white;
+}
+
+#bajar{
+    padding-bottom: -10px !important;
+}

@@ -1,0 +1,51 @@
+#titulo{
+    color: white;
+}
+
+.tituloDiv{
+    margin: -15px;
+    padding-left: 30px;
+    background-color: #333333;
+}
+
+.tituloDiv span{
+    color: #777777;
+    border-right: 2px solid #777777;
+    margin-left: 10px;
+    padding-right: 5px;
+}
+
+.tituloDiv h3{
+    display: inline;
+    color: #777777;
+}
+
+.nombres span{
+    color: #136CB2;
+}
+
+.nombres{
+    color: #777777;
+    font-size: 90%;
+}
+
+#plot{
+    margin-top: 30px;
+}
+
+#agregarButton{
+    width: 400px;
+    height: 60px;
+    margin-top: 30px;
+    background-color: #0E63BE;
+    font-size: 110%;
+    font-weight: bold;
+}
+
+.letraChica{
+    font-size: 85%;
+}
+
+#agregarButton:hover{
+    background-color: #0A58AC;
+}

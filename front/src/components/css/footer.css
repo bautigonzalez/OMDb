@@ -1,0 +1,38 @@
+#footer{
+    background-color: black;
+    height: 350px;
+    color: #B0B0B0;
+    margin-top: -20px;
+    padding-top: 10px;
+}
+
+.col-8 span{
+    margin-left: 4%;
+    font-weight: 550;
+}
+
+h6{
+    font-size: smaller;
+    margin-left: 10%;
+}
+
+#primerfila{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.row{
+    margin-bottom: 20px;
+}
+
+.red{
+    width: 30px;
+}
+
+.col-4 span{
+    margin-left: 7%;
+}
+
+.company{
+    margin-top: 20px;
+}

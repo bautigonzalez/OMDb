@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@400;500&display=swap');
+
+.link{
+    color: white;
+    font-family: 'Hind', sans-serif;
+    font-weight: bold;
+}
+
+.link:hover{
+    background-color: #2a2a2a;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#buscar{
+    width: 650px;
+    height: 32px;
+}
+
+#navbar{
+    background-color: #121212;
+}
+
+#logo{
+    width: 70px;
+}
+
+#collasible-nav-dropdown{
+    color: white;
+    font-family: 'Hind', sans-serif;
+}
+
+#collasible-nav-dropdown::after {
+    display:none;
+}
+
+#buscarImg{
+    width: 15px;
+    margin-bottom: 8px;
+}
+
+#buscarButton{
+    background-color: #121212;
+    border-color: white;
+    height: 32px;
+}
+
+#menuImg{
+    margin-top: 10px;
+    width: 17px;
+    height: 17px;
+}
+
+.dlink:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.dlink{
+    color: black;
+}
